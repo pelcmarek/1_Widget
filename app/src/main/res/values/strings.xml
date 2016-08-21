@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">1_Widget</string>
     <string name="action_settings">Settings</string>
+    <string name="sum">SUM</string>
+    <string name="number_2">number 2</string>
+    <string name="number_1">number 1</string>
+    <string name="vysledek">Vysledek</string>
 </resources>
